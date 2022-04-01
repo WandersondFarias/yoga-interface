@@ -91,12 +91,17 @@ p{
     line-height: 21px;
     text-align: center;
     color: #323232;
-}
+
+
+
+  }
+  .img-link{
+      margin: 0 18px;
+  }
+
 .footer{
     text-align: center;
     margin: 18px auto 80px auto;
+  }
 
-}
-.img-link{
-    margin: 0 18px;
-}
+

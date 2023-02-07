@@ -44,7 +44,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-    <a href="https://github.com/wandersondefariasprogramador" Progeto="yoga-interface">LINK-GITHUB</a>
+    
 
   </tr>
 </table>
